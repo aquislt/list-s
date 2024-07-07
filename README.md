@@ -8,7 +8,7 @@
 - Single list of items;
 - Item deleting, editing
 - Unlimited item creation
-![Aqui List S Screenshot](screenshots/interface-1.png)
+![Aqui List S Screenshot](screenshots/interface-1.jpg)
 
  # More about Aqui List (non-S):
  It will launch later this month with a login system, multiple list creation and Reminders.

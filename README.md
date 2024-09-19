@@ -4,14 +4,14 @@
 - JavaScript;
 - React Native (+ Expo).
 
- # It supports:
+ # It gives:
 - Single list of items;
-- Item deleting, editing
+- Item deleting, editing;
 - Unlimited item creation
-<img src="screenshots/interface-1.jpg" width="480" height="640">
+<img src="screenshots/interface-1.jpg" width="468" height="216">
 
- # More about Aqui List (non-S):
- It will launch later this month with a login system, multiple list creation and Reminders.
+ # More about Aqui List S:
+ This is a testing version of the normal-sized Aqui List, coming out for Android devices later this year.
 
  # Language support:
-This project was made in Portuguese (Brazil).
+This project was made in Portuguese (Brazil). We have plans to add language support in the near future.

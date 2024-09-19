@@ -8,7 +8,7 @@
 - Single list of items;
 - Item deleting, editing;
 - Unlimited item creation
-<img src="screenshots/interface-1.jpg" width="468" height="216">
+<img src="screenshots/interface-1.jpg" width="216" height="468">
 
  # More about Aqui List S:
  This is a testing version of the normal-sized Aqui List, coming out for Android devices later this year.
